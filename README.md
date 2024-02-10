@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Arhumweb
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning wepage
-- 💞️ I’m looking to collaborate on with others
+- 💞️ I’m looking to collaborate with others
 - 📫 How to reach me email
-- 😄 Pronouns: bat/man
 - ⚡ Fun fact: i am dumb still i am coding some how
 
 <!---
